@@ -713,7 +713,7 @@ section {
 	color: #fff;
 	transition: 0.3s ease-in-out;
 	height: 100%;
-	width: 400px;
+	width: 350px;
 }
 
 @media (max-width: 991px) {
